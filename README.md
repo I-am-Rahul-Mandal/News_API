@@ -1,1 +1,1 @@
-# News_API
+This Mini Project is using API to display the news.
